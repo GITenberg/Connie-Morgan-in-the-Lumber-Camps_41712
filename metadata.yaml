@@ -1,0 +1,30 @@
+_repo: Connie-Morgan-in-the-Lumber-Camps_41712
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41712-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hendryx, James B. (James Beardsley)
+    birthdate: 1880
+    deathdate: 1963
+    gutenberg_agent_id: '6523'
+    url: http://www.gutenberg.org/2009/agents/6523
+description: ''
+gutenberg_issued: '2012-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41712'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Minnesota -- Juvenile fiction'
+- !lcsh 'Logging -- Juvenile fiction'
+- !lcsh 'Loggers -- Juvenile fiction'
+- !lcsh 'Industrial Workers of the World -- Juvenile fiction'
+- !lcsh 'Lumber camps -- Juvenile fiction'
+- !lcc 'PZ'
+title: Connie Morgan in the Lumber Camps
+url: http://www.gutenberg.org/ebooks/41712
